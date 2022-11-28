@@ -1,6 +1,0 @@
-The setting files in OpenFOAM for different scenerios are listed in
-perpendicular and parallel folders seperately. For each subfolder, the name is
-specified with different inflow or different building height. For example,
-u1h20 means the inflow of the case is 1m/s perpendicular to the street with
-building heights 20m (v for parallel). The *U* files in SingleGraph are the
-data used for fitting.
