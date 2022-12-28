@@ -1,7 +1,7 @@
 # The development and validation of an Inhomogeneous Wind Scheme for Urban Street
 \
 \
-IWSUS-v0.1: A model for wind profile calculation at typical positions of a long street.
+WRF-IWSUS_v0.1: A model for wind profile calculation at typical positions of a long street.
 Inhomogeneous Wind Scheme for Urban Street (IWSUS) is developed for genrating wind profiles at typical position of a long street. 
 \
 \
